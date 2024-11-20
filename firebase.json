@@ -1,0 +1,9 @@
+{
+    "hosting": [
+    {
+        "target": "hsf-pool-secure",
+        "source": ".",
+        "frameworksBackend": {}
+    }
+    ]
+}

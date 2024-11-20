@@ -1,0 +1,14 @@
+{
+    "targets": {
+        "hsf-pool": {
+        "hosting": {
+            "hsf-pool-secure": [
+            "hsf-pool"
+            ]
+        }
+    }
+    },
+    "projects": {
+        "default": "hsf-pool"
+    }
+}
